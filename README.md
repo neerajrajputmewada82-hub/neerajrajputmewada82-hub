@@ -21,7 +21,7 @@ I’m passionate about building  **modern web applications**, and **exceptional 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_ashish_patel._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/neeraj-mewada-4a3883315) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashishpatel3630@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nee_rajput2550) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/neeraj-mewada-4a3883315) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neerajrajputmewada82@gmail.com) 
 
 
 
