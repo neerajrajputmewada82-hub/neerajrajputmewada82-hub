@@ -208,7 +208,7 @@ Designing interfaces that are **clean, responsive and easy to use**.
 [██████░░░░░░░░░░░░░░] Generative AI
 
 [████░░░░░░░░░░░░░░░░] Production SaaS
-
+```
 
 ---
 
